@@ -43,6 +43,8 @@ public class Problem2 {
 	public static void main(String arg[]){
 		int list[]={1,3,1,2,1,1,1,3};
 		new Problem2().findMajorityElement(list);
-	}
+                System.out.println("Changes");	
+}
+
 }
   
